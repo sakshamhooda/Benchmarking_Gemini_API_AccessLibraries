@@ -1,6 +1,6 @@
 # Benchmarking_Gemini_API_AccessLibraries
 
-Here in the notebook I intend to compare perfomance metrics when Google Gemini-API is called using newly launched OpenAI libray method as well as conventional Gemini-API.
+Here in the notebook (https://colab.research.google.com/drive/1YiVKV5jZsZBKPUFV7S-3wUVVCt999UDH?usp=sharing) I intend to compare perfomance metrics when Google Gemini-API is called using newly launched OpenAI libray method as well as conventional Gemini-API.
 
 https://developers.googleblog.com/en/gemini-is-now-accessible-from-the-openai-library/
 
